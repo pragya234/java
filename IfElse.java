@@ -7,5 +7,6 @@ System.out.println("x is less than 10");}
 else{
 System.out.println("x is more than 10");
 }
+System.out.println("modifying to see the changes in git log");
 }
 }
